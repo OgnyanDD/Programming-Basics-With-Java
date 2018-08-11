@@ -1,3 +1,5 @@
+![Logo](https://camo.githubusercontent.com/98ae72843e29b468df31a1c7cde41bce64198722/687474703a2f2f7370616365617070736368616c6c656e676562756c67617269612e65752f73697465732f64656661756c742f66696c65732f736f6674756e692e706e67)
+
 # :large_blue_diamond: ABOUT THE COURSE: #
 
 The **"Programming Basics"** course provides the initial programming skills required for all of the technological majors at the [SoftUni](https://softuni.org/). This includes basic codeing skills, working with development environment (IDE), using variables and data, operators and expressions, console handling (reading input and output printing), using the conditional constructions (if, if-else) and cycles (for, while, do-while).
