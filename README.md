@@ -1,10 +1,11 @@
-# :large_blue_diamond: ABOUT THE COURSE: #
+# [PROGRAMING BASIC WITH JAVA](https://softuni.bg/trainings/1873/programming-basics-with-java-february-2018#lesson-7497)
+## :large_blue_diamond: ABOUT THE COURSE: ##
 
 The **"Programming Basics"** course provides the initial programming skills required for all of the technological majors at the [SoftUni](https://softuni.org/). This includes basic codeing skills, working with development environment (IDE), using variables and data, operators and expressions, console handling (reading input and output printing), using the conditional constructions (if, if-else) and cycles (for, while, do-while).
 
 The course ends with a practical programming exam, which is accepted in the [Software engineering program](https://softuni.bg/curriculum) of the [SoftUni](https://softuni.org/).
 
-# :large_blue_diamond: ACQUIRED SKILLS: #
+## :large_blue_diamond: ACQUIRED SKILLS: ##
 
 | | |
 ------------ | -------------
@@ -12,7 +13,7 @@ The course ends with a practical programming exam, which is accepted in the [Sof
 :mortar_board: Working with logical checks (if-else) | :mortar_board: Work with more complex logic checks (nested if-else constructions and switch)
 :mortar_board: Working with cycles (for) | :mortar_board: Working with more complex cycles (nested for cycles and while)
 
-# :large_blue_diamond: TOPICS: #
+## :large_blue_diamond: TOPICS: ##
 
 | | |
 ------------ | -------------
