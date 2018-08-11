@@ -9,9 +9,9 @@ The course ends with a practical programming exam, which is accepted in the [Sof
 
 | | |
 ------------ | -------------
-:mortar_board: Working with the console (data input and output) | :mortar_board: Perform simple calculations
-:mortar_board: Working with logical checks (if-else) | :mortar_board: Work with more complex logic checks (nested if-else constructions and switch)
-:mortar_board: Working with cycles (for) | :mortar_board: Working with more complex cycles (nested for cycles and while)
+:mortar_board: Work with the console (data input and output) | :mortar_board: Perform simple calculations
+:mortar_board: Work with logical checks (if-else) | :mortar_board: Work with more complex logic checks (nested if-else constructions and switch)
+:mortar_board: Work with cycles (for) | :mortar_board: Work with more complex cycles (nested for cycles and while)
 
 ## :large_blue_diamond: TOPICS: ##
 
