@@ -17,8 +17,8 @@ The course ends with a practical programming exam, which is accepted in the [Sof
 | | |
 ------------ | -------------
 :one: **USEFUL LINKS** | :two: **WELCOME TO SOFTUNI**
-:three: **PROGRAMMING BASICS - INTRODUCTION** | :four: **FIRST STEPS IN PROGRAMMING**
-:five: **SIMPLE CALCULATION** | :six: **LOGICAL CHECKS**
-:seven: **MORE COMPLEX LOGICAL CHECKS** | :eight: **REPEATS (LOOPS)**
-:nine: **DRAWING SHAPES WITH LOOPS** | :one::zero: **ADVANCED LOOPS**
-:one::one: **EXAM PREPARATIONS** | :one::two: **PRACTICAL ENTRANCE EXAM**
+:three: **PROGRAMMING BASICS - INTRODUCTION** | :four: [**FIRST STEPS IN PROGRAMMING**](https://github.com/OgnyanDD/Programming-Basics-With-Java/tree/master/T4.%20FIRST%20STEPS%20IN%20PROGRAMMING)
+:five: [**SIMPLE CALCULATION**](https://github.com/OgnyanDD/Programming-Basics-With-Java/tree/master/T5.%20SIMPLE%20CALCULATIONS) | :six: [**LOGICAL CHECKS**](https://github.com/OgnyanDD/Programming-Basics-With-Java/tree/master/T6.%20LOGICAL%20CHECKS)
+:seven: [**MORE COMPLEX LOGICAL CHECKS**](https://github.com/OgnyanDD/Programming-Basics-With-Java/tree/master/T7.%20MORE%20COMPLEX%20LOGICAL%20CHECKS) | :eight: [**REPEATS (LOOPS)**](https://github.com/OgnyanDD/Programming-Basics-With-Java/tree/master/T8.%20REPEATS%20(LOOPS))
+:nine: [**DRAWING SHAPES WITH LOOPS**](https://github.com/OgnyanDD/Programming-Basics-With-Java/tree/master/T9.%20DRAWING%20SHAPES%20WITH%20LOOPS) | :one::zero: [**ADVANCED LOOPS**](https://github.com/OgnyanDD/Programming-Basics-With-Java/tree/master/TF10.%20ADVANCED%20LOOPS)
+:one::one: [**EXAM PREPARATIONS**](https://github.com/OgnyanDD/Programming-Basics-With-Java/tree/master/TF11.%20EXAM%20PREPARATION) | :one::two: [**PRACTICAL ENTRANCE EXAM**](https://github.com/OgnyanDD/Programming-Basics-With-Java/tree/master/TF12.%20PRACTICAL%20ENTRANCE%20EXAM%20)
